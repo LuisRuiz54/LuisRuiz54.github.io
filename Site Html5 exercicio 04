@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Tae Kwon Do</title>
+</head>
+<body>
+    <h1><ins>TAE KWON DO <ins></h1>
+
+
+    <figure>
+        <img alt="Prefeitura Municipal de São José" class="n3VNCb" 
+        src="https://www.saojose.sc.gov.br/images/uploads/sao-jose/taekwondo1_190218.jpg" 
+        data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" 
+        style="width: 433px; height: 288.921px; margin: 0px;"> 
+
+    </figure>
+
+    <h2>Qual é o significado do Taekwondo?</h2>
+    <p style="text-align:justify;width:600px;" > Em coreano a palavra taekwondo possui o seguinte significado: 
+       caminho dos pés e das mãos através da mente. 
+       Apesar de ser uma luta, possui, assim como quase todas 
+       as artes marciais, uma filosofia que inclui vários valores
+     </p>
+
+     <h2>Qual é o principal objetivo do taekwondo?</h2>
+<p style="text-align:justify;width:600px;">
+    Tae kwon do, ou TKD, é uma arte marcial que originou um esporte de combate. 
+    Hoje em dia, é um desporto difundido em todos os continentes e seu objetivo é, 
+    através do treinamento, possibilitar ao praticante adquirir 
+    corpo e mente fortes e saudáveis, respeito, disciplina e humildade.
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TKEbws4QhEk" 
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+<h2>Qual é a filosofia do taekwondo?</h2>
+<p>A Filosofia do Taekwondo representa os princípios dos movimentos e mudanças no homem. 
+    </p>
+    <ul>
+        <li>Cortesia</li>
+        <li>Integridade</li>
+        <li>Autocontrole</li>
+        <li>Lealdade</li>
+        <li>Perseverança</li>
+        <li>Espírito indomável </li>
+    </ul>
+
+<h2>Faixas & Graduações</h2>
+<p style="text-align:justify;width:600px;">O sistema de graduação no Taekwondo está dividido em 19 diferentes níveis, dez graduações coloridas 
+    GUBs, e outras nove graduações a partir da faixa preta que recebem o nome de DANs.</p>
+<ol>
+    <li>Faixa Branca (10º Gub) </li>
+    <li>Faixa Amarela (8º Gub)  </li>
+    <li>faixa Amarela com Ponteira-verde (7º Gub) </li>
+    <li>Faixa Verde (6º Gub)</li>   
+    <li>faixa Verde com Ponteira-azul (5º Gub)</li> 
+    <li>Faixa Azul (4º Gub)</li> 
+    <li>faixa Azul com Ponteira-vermelha (3º Gub) </li> 
+    <li>Faixa Vermelha (2º Gub) </li> 
+    <li>faixa Vermelha com Ponteira-preta (1º Gub) </li> 
+    <li>Faixa Preta (do 1º ao 9º Dan </li> 
+
+    <img class="aligncenter size-full wp-image-1707 lazyloaded" src="https://deportesdecontacto.online/wp-content/uploads/2019/05/cinturones-taekwondo.jpg" 
+    alt="escala de cinturones en taekwondo" data-lazy-srcset="https://deportesdecontacto.online/wp-content/uploads/2019/05/cinturones-taekwondo.jpg 680w,
+     https://deportesdecontacto.online/wp-content/uploads/2019/05/cinturones-taekwondo-300x176.jpg 300w" 
+    data-lazy-sizes="(max-width: 680px) 100vw, 680px" data-lazy-src="https://deportesdecontacto.online/wp-content/uploads/2019/05/cinturones-taekwondo.jpg" 
+    sizes="(max-width: 680px) 100vw, 680px" srcset="https://deportesdecontacto.online/wp-content/uploads/2019/05/cinturones-taekwondo.jpg 680w, 
+    https://deportesdecontacto.online/wp-content/uploads/2019/05/cinturones-taekwondo-300x176.jpg 300w" 
+    data-was-processed="true" width="680" height="400">
+
+<section>
+
+    <h3><em>Formulario:</em></h3>
+
+<form
+action= method post> 
+<label form="Nome"> Nome </label>
+<input nome= "Nome" id="Nome" type= "tex" placeholder= "Exemplo Luis" />
+
+<label form="Sobrenome"> Sobrenome </label>
+<input nome= "Sobrenome" id="Sobrenome" type= "tex" placeholder= "Exemplo Ruiz" /> 
+</form>
+
+<textarea name="mensagem" cols="50" rows="8" 
+class="wpcf7-form-control wpcf7-textarea" 
+aria-invalid="false" placeholder="Deixe seu comentario"></textarea>
+
+</section>
+
+</ol>
+
+</body>
+</html>
